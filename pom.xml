@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>vikaselevators.com</groupId>
-    <artifactId>com.vikaselevators</artifactId>
-    <version>vikaselevators</version>
+    <groupId>prem.com</groupId>
+    <artifactId>com.prem</artifactId>
+    <version>prem</version>
     <packaging>jar</packaging>
 
-    <name>com.vikaselevators</name>
+    <name>com.prem</name>
     <description>Blank project for GraalVM</description>
 
     <properties>
